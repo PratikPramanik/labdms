@@ -1,0 +1,11 @@
+# Ignoring files
+#
+# Ignore Specific Data
+/App_Data
+/Images
+
+# Ignore web configuration
+web/config
+
+# Ignore Themes
+/App_Themes
